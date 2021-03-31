@@ -1,4 +1,4 @@
-<h1 align="center">Marble UI</h1>
+<h1 align="center">MarbleUI</h1>
 <h2 align="center">
 
 <img src="https://img.shields.io/badge/made%20by-FibonacciFox-blue.svg" >
@@ -17,7 +17,7 @@
 </h2>
 
 <p align="center">
-<b>Marble UI</b> is a user interface framework that will be used with AGK 2 (AppGameKit) 
+<b>MarbleUI</b> is a user interface framework that will be used with AppGameKit 2  
 in the <b>php-appgamekit-ext</b> template. 
 It is written in PHP and is under development.
 </p>
