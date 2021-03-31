@@ -9,7 +9,7 @@
     <img
       alt="Marble UI"
       src="./doc/images/MarbleUI.png"
-      width="800"
+      width="400"
     />
   </a>
 </p>
