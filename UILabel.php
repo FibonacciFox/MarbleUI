@@ -14,7 +14,7 @@ class UILabel extends UIWidget
 
         $agk = $this->AppGameKit;
 
-        $this->indexID = $agk->CreateText('sssssss');
+        $this->indexID = $agk->CreateText('');
 
         $agk->SetTextSize($this->indexID, 25);
 
