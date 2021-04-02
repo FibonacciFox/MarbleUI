@@ -8,7 +8,7 @@
   <a href="https://github.com/FibonacciFox/jphp-appgamekit-ext">
     <img
       alt="Marble UI"
-      src="./doc/images/MarbleUI.png"
+      src="doc/images/MarbleUI.png"
       width="150"
     />
   </a>
