@@ -8,7 +8,7 @@ namespace MarbleUI\modules;
  ** EN: Agk base object.
  ** RU: Базовый объект AppGameKit.
  *
- * @property-read  int $agkID Уникальный идентификатор в AppGameKit.
+ * @property-read  int $objectId Уникальный идентификатор в AppGameKit.
  *
  * @package MarbleUI\Categories
  */
@@ -22,7 +22,7 @@ abstract class BaseObject
     /**
      * @var int Уникальный идентификатор в AppGameKit.
      */
-    protected int $agkID;
+    protected int $objectId;
 
     /**
      * BaseObject constructor.
@@ -41,15 +41,10 @@ abstract class BaseObject
     public function __get($property)
     {
         switch ($property) {
-            case '$agkID':
-                return $this->agkID;
+            case '$objectId':
+                return $this->objectId;
                 break;
         }
-    }
-
-    public function __set($property, $value)
-    {
-
     }
 
     /**
